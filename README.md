@@ -14,6 +14,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srithaja0111/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/srithaja0111/leetcode-problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/srithaja0111/leetcode-problems/tree/master/0283-move-zeroes) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/srithaja0111/leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/srithaja0111/leetcode-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Math
@@ -54,4 +55,5 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srithaja0111/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/srithaja0111/leetcode-problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/srithaja0111/leetcode-problems/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
