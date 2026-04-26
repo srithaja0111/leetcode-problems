@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/srithaja0111/leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/srithaja0111/leetcode-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Math
 |  |
@@ -29,4 +30,20 @@
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/srithaja0111/leetcode-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Depth-First Search
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/srithaja0111/leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/srithaja0111/leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
+## Union-Find
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/srithaja0111/leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
+## Matrix
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/srithaja0111/leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
