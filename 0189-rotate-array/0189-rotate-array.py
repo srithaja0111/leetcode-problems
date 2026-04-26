@@ -5,6 +5,6 @@ class Solution:
         for _ in range(0,rotation):
             e=nums.pop()
             nums.insert(0,e)
-        return n
+        return nums
 
         
