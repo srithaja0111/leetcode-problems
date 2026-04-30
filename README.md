@@ -16,6 +16,7 @@
 | [0189-rotate-array](https://github.com/srithaja0111/leetcode-problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/srithaja0111/leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/srithaja0111/leetcode-problems/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/srithaja0111/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/srithaja0111/leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/srithaja0111/leetcode-problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/srithaja0111/leetcode-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
