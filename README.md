@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/srithaja0111/leetcode-problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srithaja0111/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/srithaja0111/leetcode-problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/srithaja0111/leetcode-problems/tree/master/0268-missing-number) |
@@ -77,6 +78,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/srithaja0111/leetcode-problems/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/srithaja0111/leetcode-problems/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
