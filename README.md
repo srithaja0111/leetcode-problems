@@ -19,6 +19,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/srithaja0111/leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/srithaja0111/leetcode-problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/srithaja0111/leetcode-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/srithaja0111/leetcode-problems/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/srithaja0111/leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/srithaja0111/leetcode-problems/tree/master/3225-maximum-score-from-grid-operations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/srithaja0111/leetcode-problems/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [3225-maximum-score-from-grid-operations](https://github.com/srithaja0111/leetcode-problems/tree/master/3225-maximum-score-from-grid-operations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/srithaja0111/leetcode-problems/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
