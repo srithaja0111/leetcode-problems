@@ -14,6 +14,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/srithaja0111/leetcode-problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srithaja0111/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srithaja0111/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0189-rotate-array](https://github.com/srithaja0111/leetcode-problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/srithaja0111/leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/srithaja0111/leetcode-problems/tree/master/0283-move-zeroes) |
@@ -79,9 +80,22 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/srithaja0111/leetcode-problems/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srithaja0111/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0268-missing-number](https://github.com/srithaja0111/leetcode-problems/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/srithaja0111/leetcode-problems/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srithaja0111/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srithaja0111/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srithaja0111/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
