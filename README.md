@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/srithaja0111/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/srithaja0111/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/srithaja0111/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/srithaja0111/leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
@@ -103,12 +104,14 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/srithaja0111/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srithaja0111/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/srithaja0111/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/srithaja0111/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/srithaja0111/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srithaja0111/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/srithaja0111/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/srithaja0111/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Linked List
 |  |
@@ -122,4 +125,5 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/srithaja0111/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/srithaja0111/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
