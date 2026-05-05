@@ -14,6 +14,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/srithaja0111/leetcode-problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srithaja0111/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/srithaja0111/leetcode-problems/tree/master/0048-rotate-image) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srithaja0111/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0189-rotate-array](https://github.com/srithaja0111/leetcode-problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/srithaja0111/leetcode-problems/tree/master/0268-missing-number) |
@@ -26,6 +27,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/srithaja0111/leetcode-problems/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/srithaja0111/leetcode-problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/srithaja0111/leetcode-problems/tree/master/0268-missing-number) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/srithaja0111/leetcode-problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -58,6 +60,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/srithaja0111/leetcode-problems/tree/master/0048-rotate-image) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/srithaja0111/leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/srithaja0111/leetcode-problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/srithaja0111/leetcode-problems/tree/master/3742-maximum-path-score-in-a-grid) |
