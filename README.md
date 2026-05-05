@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/srithaja0111/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2833-furthest-point-from-origin](https://github.com/srithaja0111/leetcode-problems/tree/master/2833-furthest-point-from-origin) |
 ## Counting
 |  |
@@ -48,10 +49,12 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/srithaja0111/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/srithaja0111/leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/srithaja0111/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/srithaja0111/leetcode-problems/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Union-Find
 |  |
@@ -98,12 +101,18 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srithaja0111/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/srithaja0111/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srithaja0111/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/srithaja0111/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Linked List
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/srithaja0111/leetcode-problems/tree/master/0061-rotate-list) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/srithaja0111/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
