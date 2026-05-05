@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srithaja0111/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/srithaja0111/leetcode-problems/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/srithaja0111/leetcode-problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/srithaja0111/leetcode-problems/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
@@ -98,4 +99,8 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srithaja0111/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/srithaja0111/leetcode-problems/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
